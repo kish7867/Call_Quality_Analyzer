@@ -1,4 +1,8 @@
-# Call Quality Analyzer — Colab Notebook
+# Call Quality Analyzer
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/kish7867/Call_Quality_Analyzer/blob/main/Call_Quality_Analyzer.ipynb
+)
 
 This Colab notebook analyzes a sales call and outputs:
 - talk-time ratio (per speaker)
